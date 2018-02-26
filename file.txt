@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My First Heading</h1>
+<p>My first paragraph.
+<hr>
+Another ruler...
+<hr>
+No more rulers
+</p>
+<br>
+<!-- I should be ignored -->
+<p>Bold Example: <b> bold </b></p>
+</body>
+</html>
